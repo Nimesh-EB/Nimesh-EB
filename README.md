@@ -1,3 +1,9 @@
+<p>
+    <img align="center"
+      src="new nimesh.png"
+        alt="nimesh-intro"
+        width="300"/>
+</p>
 # 👋 Hi, I'm Nimesh  
 
 I'm a **Full-Stack Developer** with a passion for building scalable, high-performance applications. My expertise lies in crafting innovative solutions using modern web technologies, particularly in the fintech space and other high-impact industries.  
